@@ -1,0 +1,5 @@
+                if boxX < 208: #smaller = left/up
+                    if boxY < 208:
+                        if box2X > 208:
+                            if box2Y > 208:
+                                print("shoot")
